@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left earbud -->
+    <path
+        android:fillColor="#F2FBF8"
+        android:pathData="M28.3,44.5a11.2,11.2 0,1 0,22.4 0a11.2,11.2 0,1 0,-22.4 0Z" />
+    <path
+        android:fillColor="#F2FBF8"
+        android:pathData="M35.3,50.0L43.7,50.0L43.7,72.0A2.5,2.5 0,0 1,41.2 74.5L37.8,74.5A2.5,2.5 0,0 1,35.3 72.0Z" />
+    <!-- Right earbud -->
+    <path
+        android:fillColor="#F2FBF8"
+        android:pathData="M57.3,44.5a11.2,11.2 0,1 0,22.4 0a11.2,11.2 0,1 0,-22.4 0Z" />
+    <path
+        android:fillColor="#F2FBF8"
+        android:pathData="M64.3,50.0L72.7,50.0L72.7,72.0A2.5,2.5 0,0 1,70.2 74.5L66.8,74.5A2.5,2.5 0,0 1,64.3 72.0Z" />
+</vector>
